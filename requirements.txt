@@ -1,0 +1,17 @@
+ccxt~=4.3.43
+pandas~=2.2.2
+keras~=3.3.3
+tensorflow~=2.16.1
+numpy~=1.26.4
+scikit-learn~=1.5.0
+requests~=2.32.3
+tweepy~=4.14.0
+praw~=7.7.1
+beautifulsoup4~=4.12.3
+textblob~=0.18.0.post0
+ta~=0.11.0
+black~=24.4.2
+isort~=5.13.2
+flake8~=7.0.0
+backtrader~=1.9.78.123
+matplotlib~=3.9.0
